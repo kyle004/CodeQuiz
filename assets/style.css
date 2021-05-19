@@ -1,0 +1,26 @@
+/* . row bg-light p-5 rounded-lg m-3 {
+  background-color: blue;
+} */
+
+body {
+  background-color: rgb(68, 68, 75);
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.row {
+  background-color: rgb(128, 56, 56);
+}
+
+.btn {
+  background-color: rgb(112, 112, 112);
+}
